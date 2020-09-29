@@ -1,0 +1,6213 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 188,
+            "content": "nSummary"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 520,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 835,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1824,
+            "content": "nSummary"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2313,
+            "content": "nSummary"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4248,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4513,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 5235,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6273,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 6544,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 6898,
+            "content": "nSummary"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7489,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8654,
+            "content": "nSummary"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 9471,
+            "content": "email"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 9655,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nSummary:\\n",
+      "salience": 0.5799256,
+      "sentiment": {
+        "magnitude": 5.2,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 131,
+            "content": "Timestamp"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1052,
+            "content": "Humble Bundlehttps://www.reddit.com/r/OzBargainNew/comments/gb8t0s/pc_steam_metal_gear_survive_749oninaki_3499the/ Timestamp"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 1334,
+            "content": "Uncertainty"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1487,
+            "content": "Timestamp"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6216,
+            "content": "Timestamp"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 7139,
+            "content": "Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/036wn4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Timestamp"
+      },
+      "name": "Humble Bundlehttps://www.reddit.com/r/OzBargainNew/comments/gb8t0s/pc_steam_metal_gear_survive_749oninaki_3499the/ Timestamp",
+      "salience": 0.035785705,
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1881,
+            "content": "I\\"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5462,
+            "content": "I\\"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "I\\",
+      "salience": 0.023074454,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 906,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4319,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4930,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.014902005,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 898,
+            "content": "link"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4311,
+            "content": "link"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 4922,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.014902005,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 21,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.01290033,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1224,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3592,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3965,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4859,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5697,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 7980,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 8329,
+            "content": "nSummary:\\n"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nSummary:\\n",
+      "salience": 0.012194116,
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.1
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 625,
+            "content": "u2018He"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "u2018He",
+      "salience": 0.011791201,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 198,
+            "content": "nI\\"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nI\\",
+      "salience": 0.010623765,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 884,
+            "content": "bharatnews"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4297,
+            "content": "bharatnews"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 4908,
+            "content": "bharatnews"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "bharatnews",
+      "salience": 0.010476397,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 778,
+            "content": "Timestamp"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Timestamp",
+      "salience": 0.0065037725,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 936,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0062137195,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 312,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0062137195,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 588,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0062137195,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 618,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0062137195,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 283,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0062137195,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 276,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0062137195,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 565,
+            "content": "LaIzquierda"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 580,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "LaIzquierda",
+      "salience": 0.0061451234,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 241,
+            "content": "anything"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "anything",
+      "salience": 0.0057027857,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 1544,
+            "content": "nSummary:\\n/u/hindikibaat r/bharatnews"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1584,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "nSummary:\\n/u/hindikibaat r/bharatnews",
+      "salience": 0.0052574673,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 253,
+            "content": "u"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "u",
+      "salience": 0.004265967,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5753,
+            "content": "ACPocketCamp"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5769,
+            "content": "link"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 9018,
+            "content": "ACPocketCamp"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9032,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "ACPocketCamp",
+      "salience": 0.0041938405,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4191,
+            "content": "Timestamp"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4688,
+            "content": "Congressmanhttps://www.reddit.com/r/bharatnews/comments/gb8t0c/india_has_stepped_up_as_a_leader_in_fight_against/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Congressmanhttps://www.reddit.com/r/bharatnews/comments/gb8t0c/india_has_stepped_up_as_a_leader_in_fight_against/ Timestamp",
+      "salience": 0.004033841,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 352,
+            "content": "cacerolazoshttps://www.reddit.com/r/LaIzquierda/comments/gb8t0y/manuela_casta\\u00f1eira_sobre_los_cacerolazos/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "cacerolazoshttps://www.reddit.com/r/LaIzquierda/comments/gb8t0y/manuela_casta\\u00f1eira_sobre_los_cacerolazos/ Timestamp",
+      "salience": 0.0038491453,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 943,
+            "content": "PC"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "PC",
+      "salience": 0.0027394954,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 648,
+            "content": "rakhi"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "rakhi",
+      "salience": 0.0027394954,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 657,
+            "content": "behalf"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "behalf",
+      "salience": 0.0027394954,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 270,
+            "content": "chat"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "chat",
+      "salience": 0.0027394954,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1015,
+            "content": "Yakuza"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Yakuza",
+      "salience": 0.0027394954,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 670,
+            "content": "wife"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "wife",
+      "salience": 0.0027394954,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 2496,
+            "content": "strategy"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "strategy",
+      "salience": 0.0026435067,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 2256,
+            "content": "Timestamp"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Timestamp",
+      "salience": 0.002443976,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 7270,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 7325,
+            "content": "mesmohttps://www.reddit.com/r/Mentecapto/comments/gb8szv/e_pior_que_eu_acreditava_que_eu_estava_hackeando/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0b2334",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Reddit"
+      },
+      "name": "mesmohttps://www.reddit.com/r/Mentecapto/comments/gb8szv/e_pior_que_eu_acreditava_que_eu_estava_hackeando/ Timestamp",
+      "salience": 0.0024307526,
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1290,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.002342951,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1298,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.002342951,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1620,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.002342951,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1591,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.002342951,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1328,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.002342951,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.5,
+            "score": 0.5
+          },
+          "text": {
+            "beginOffset": 2119,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0023346767,
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 2090,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0023346767,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 2083,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0023346767,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1274,
+            "content": "OzBargainNew"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 5285,
+            "content": "OzBargainNew"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 8379,
+            "content": "OzBargainNew"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "OzBargainNew",
+      "salience": 0.0022840567,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9137,
+            "content": "https://www.reddit.com/r/65Grendel/comments/gb8szp/finally_got_around_to_shooting_my_grendel_hunter/ Timestamp"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9133,
+            "content": "ass."
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "https://www.reddit.com/r/65Grendel/comments/gb8szp/finally_got_around_to_shooting_my_grendel_hunter/ Timestamp",
+      "salience": 0.00177581,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3751,
+            "content": "Newsom"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3742,
+            "content": "Governor"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0264nv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gavin_Newsom"
+      },
+      "name": "Newsom",
+      "salience": 0.0017750608,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 1030,
+            "content": "FF VIII Rem"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "FF VIII Rem",
+      "salience": 0.0016195361,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 318,
+            "content": "Manuela Casta\\u00f1eira"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Manuela Casta\\u00f1eira",
+      "salience": 0.0016195361,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 955,
+            "content": "Metal Gear"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/021c2n",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Metal_Gear"
+      },
+      "name": "Metal Gear",
+      "salience": 0.0016195361,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 995,
+            "content": "The Quiet Man"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "The Quiet Man",
+      "salience": 0.0016195361,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 980,
+            "content": "ONINAKI"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11h557gbqk",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Oninaki"
+      },
+      "name": "ONINAKI",
+      "salience": 0.0016195361,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4027,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0015765964,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3693,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0015765964,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 4614,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0015747485,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 4065,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0015747485,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 4576,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0015747485,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4584,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0015747485,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4035,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0015747485,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 4349,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0015747485,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3271,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0015573163,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3279,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0015573163,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3663,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0015573163,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3309,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0015573163,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3655,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0015573163,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1670,
+            "content": "https://www.reddit.com/r/LittleNightmares/comments/gb8t0m/how_do_i_cancel_sixs_hunger_animation/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "https://www.reddit.com/r/LittleNightmares/comments/gb8t0m/how_do_i_cancel_sixs_hunger_animation/ Timestamp",
+      "salience": 0.0014498291,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 4960,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.001443241,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5301,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.001443241,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5309,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.001443241,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5339,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.001443241,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 6052,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.001440506,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 5777,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.001440506,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 5807,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.001440506,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6045,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.001440506,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.7,
+            "score": 0.7
+          },
+          "text": {
+            "beginOffset": 2125,
+            "content": "Strangles"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Strangles",
+      "salience": 0.0013778742,
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.5,
+            "score": -0.5
+          },
+          "text": {
+            "beginOffset": 1653,
+            "content": "hunger animation"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "hunger animation",
+      "salience": 0.0012874763,
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          },
+          "text": {
+            "beginOffset": 1863,
+            "content": "hunger animation"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "hunger animation",
+      "salience": 0.0012874763,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1980,
+            "content": "animation"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "animation",
+      "salience": 0.0012829261,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          },
+          "text": {
+            "beginOffset": 1368,
+            "content": "many"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "many",
+      "salience": 0.0012377843,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.6,
+            "score": -0.6
+          },
+          "text": {
+            "beginOffset": 5422,
+            "content": "y\\u2019all"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "y\\u2019all",
+      "salience": 0.0011823048,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 8448,
+            "content": "times"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "times",
+      "salience": 0.00113198,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 8272,
+            "content": "Timestamp"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Timestamp",
+      "salience": 0.00113198,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 7593,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0010820301,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7234,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0010820301,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 7241,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0010820301,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 7563,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0010820301,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8433,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0010813103,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8395,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0010813103,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8044,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0010813103,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 8074,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0010813103,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8403,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0010813103,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8036,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0010813103,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 7541,
+            "content": "Mentecapto"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7555,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Mentecapto",
+      "salience": 0.0010700417,
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          },
+          "text": {
+            "beginOffset": 1351,
+            "content": "pandemic"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "pandemic",
+      "salience": 0.0010313542,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.9,
+            "score": 0.9
+          },
+          "text": {
+            "beginOffset": 2145,
+            "content": "way"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "way",
+      "salience": 0.0010277085,
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 2065,
+            "content": "LittleNightmares"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "LittleNightmares",
+      "salience": 0.0010277085,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1920,
+            "content": "trophy"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "trophy",
+      "salience": 0.0010277085,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2437,
+            "content": "market"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "market",
+      "salience": 0.0009824452,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 3802,
+            "content": "Restaurantshttps://www.reddit.com/r/Republican/comments/gb8t0i/just_in_northern_california_county_defies/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Restaurantshttps://www.reddit.com/r/Republican/comments/gb8t0i/just_in_northern_california_county_defies/ Timestamp",
+      "salience": 0.0009754013,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 4361,
+            "content": "Random Kurisu #587https://www.reddit.com/r/Kurisutina/comments/gb8t0e/daily_random_kurisu_587/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Random Kurisu #587https://www.reddit.com/r/Kurisutina/comments/gb8t0e/daily_random_kurisu_587/ Timestamp",
+      "salience": 0.0009742576,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3139,
+            "content": "positions"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "positions",
+      "salience": 0.0009740984,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3034,
+            "content": "positions"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "positions",
+      "salience": 0.0009740984,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3083,
+            "content": "positions"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "positions",
+      "salience": 0.0009740984,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3415,
+            "content": "Democratic Partyhttps://www.reddit.com/r/boogalorian/comments/gb8t0k/after_metoo_movement_founder_says_biden_can_still/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Democratic Partyhttps://www.reddit.com/r/boogalorian/comments/gb8t0k/after_metoo_movement_founder_says_biden_can_still/ Timestamp",
+      "salience": 0.0009634681,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 2409,
+            "content": "earnings strategies"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "earnings strategies",
+      "salience": 0.0009267578,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2905,
+            "content": "strategy"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "strategy",
+      "salience": 0.0009188838,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5531,
+            "content": "udd70https://www.reddit.com/r/ACPocketCamp/comments/gb8t0a/just_an_updated_photo_of_my_current_campsite_not/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "udd70https://www.reddit.com/r/ACPocketCamp/comments/gb8t0a/just_an_updated_photo_of_my_current_campsite_not/ Timestamp",
+      "salience": 0.0008911724,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 2895,
+            "content": "luck"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "luck",
+      "salience": 0.0008777729,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 4670,
+            "content": "coronavirus"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "coronavirus",
+      "salience": 0.0008651266,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 2476,
+            "content": "earnings"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "earnings",
+      "salience": 0.0008628766,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6004,
+            "content": "nSummary:\\n/u/itsmejackass r"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nSummary:\\n/u/itsmejackass r",
+      "salience": 0.0008616207,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3169,
+            "content": "more"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "more",
+      "salience": 0.000855545,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 2842,
+            "content": "market conditions"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "market conditions",
+      "salience": 0.00084717426,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 2347,
+            "content": "post"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "post",
+      "salience": 0.0008034263,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8597,
+            "content": "Timestamp"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Timestamp",
+      "salience": 0.00079164305,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8939,
+            "content": "times"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "times",
+      "salience": 0.0007907147,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9598,
+            "content": "Timestamp"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Timestamp",
+      "salience": 0.0007898681,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 2786,
+            "content": "trades"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "trades",
+      "salience": 0.0007837167,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3003,
+            "content": "market close"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "market close",
+      "salience": 0.00078028283,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3110,
+            "content": "market close"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "market close",
+      "salience": 0.00078028283,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3640,
+            "content": "boogalorian"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "boogalorian",
+      "salience": 0.00078028283,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3260,
+            "content": "options"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "options",
+      "salience": 0.00078028283,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9375,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0007548992,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 9068,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.0007548992,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9346,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0007548992,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9339,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0007548992,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9039,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0007548992,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9732,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.0007545038,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9724,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.0007545038,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 7196,
+            "content": "nSummary:\\n/u"
+          },
+          "type": "PROPER"
+        },
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9295,
+            "content": "nSummary:\\n/u"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nSummary:\\n/u",
+      "salience": 0.0007526368,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.8,
+            "score": 0.8
+          },
+          "text": {
+            "beginOffset": 4986,
+            "content": "Seafood"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Seafood",
+      "salience": 0.0007230967,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3790,
+            "content": "Schools"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Schools",
+      "salience": 0.00069379597,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 2372,
+            "content": "one"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "one",
+      "salience": 0.0006930813,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4646,
+            "content": "leader"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "leader",
+      "salience": 0.00069298234,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 4656,
+            "content": "fight"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "fight",
+      "salience": 0.00069298234,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2529,
+            "content": "others"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "others",
+      "salience": 0.0006911798,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 2609,
+            "content": "sides"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "sides",
+      "salience": 0.0006911798,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 2594,
+            "content": "strike"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "strike",
+      "salience": 0.0006911798,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2746,
+            "content": "crush"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "crush",
+      "salience": 0.00068963005,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 2932,
+            "content": "position-sizing"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "position-sizing",
+      "salience": 0.0006853063,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2979,
+            "content": "vega"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "vega",
+      "salience": 0.0006853063,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2956,
+            "content": "course"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "course",
+      "salience": 0.0006853063,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2972,
+            "content": "bit"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "bit",
+      "salience": 0.0006853063,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 2915,
+            "content": "risk management"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "risk management",
+      "salience": 0.0006853063,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3196,
+            "content": "trade ideas"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "trade ideas",
+      "salience": 0.0006853063,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 3328,
+            "content": "Movement Founder"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Movement Founder",
+      "salience": 0.0006769205,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.5,
+            "score": -0.5
+          },
+          "text": {
+            "beginOffset": 2642,
+            "content": "stonk"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "stonk",
+      "salience": 0.0006728558,
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 7804,
+            "content": "https://t.co/zmZfB5EKpChttps://www.reddit.com/r/newsbotbot/comments/gb8szs/techreview_in_the_absence_of_a_coordinated/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "https://t.co/zmZfB5EKpChttps://www.reddit.com/r/newsbotbot/comments/gb8szs/techreview_in_the_absence_of_a_coordinated/ Timestamp",
+      "salience": 0.0006688896,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 5361,
+            "content": "photo"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "photo",
+      "salience": 0.00063507777,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 4977,
+            "content": "Boxes"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Boxes",
+      "salience": 0.00063507777,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 5037,
+            "content": "Jobs"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Jobs",
+      "salience": 0.00063507777,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 5381,
+            "content": "campsite"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "campsite",
+      "salience": 0.00063507777,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 4997,
+            "content": "Hospitality Workers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Hospitality Workers",
+      "salience": 0.00063507777,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 5509,
+            "content": "lemonade"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "lemonade",
+      "salience": 0.00063387357,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 2157,
+            "content": "earnings"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "earnings",
+      "salience": 0.0006282372,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.6,
+            "score": 0.6
+          },
+          "text": {
+            "beginOffset": 5494,
+            "content": "picnic set"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "picnic set",
+      "salience": 0.00061845494,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1834,
+            "content": "nHow"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nHow",
+      "salience": 0.0006094117,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 1903,
+            "content": "Hard to the Core"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Hard to the Core",
+      "salience": 0.00060725684,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.6,
+            "score": -0.6
+          },
+          "text": {
+            "beginOffset": 8461,
+            "content": "creature"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "creature",
+      "salience": 0.00058525085,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.7,
+            "score": -0.7
+          },
+          "text": {
+            "beginOffset": 8952,
+            "content": "creature"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "creature",
+      "salience": 0.00058419537,
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3047,
+            "content": "u200b  Market"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "u200b Market",
+      "salience": 0.00057557045,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 8914,
+            "content": "creatures"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "creatures",
+      "salience": 0.00057031127,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 9429,
+            "content": "coronavirus"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "coronavirus",
+      "salience": 0.00055717374,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5842,
+            "content": "Booger Wallhttps://www.reddit.com/r/GusAndEddy/comments/gb8t06/we_need_legal_eagle_to_cover_booger_wall/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Booger Wallhttps://www.reddit.com/r/GusAndEddy/comments/gb8t06/we_need_legal_eagle_to_cover_booger_wall/ Timestamp",
+      "salience": 0.0005513531,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 7782,
+            "content": "coronavirus outbreak"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "coronavirus outbreak",
+      "salience": 0.00054511684,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 3350,
+            "content": "Biden Can Still Be \\u2018Electable"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Biden Can Still Be \\u2018Electable",
+      "salience": 0.00054293673,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 7704,
+            "content": "movement"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "movement",
+      "salience": 0.0005420519,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 8112,
+            "content": "Cheeseburger"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Cheeseburger",
+      "salience": 0.0005416912,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 8022,
+            "content": "newsbotbot"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "newsbotbot",
+      "salience": 0.0005416912,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 9005,
+            "content": "u"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "u",
+      "salience": 0.00051763264,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 8751,
+            "content": "event"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "event",
+      "salience": 0.0004845605,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7729,
+            "content": "engineers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "engineers",
+      "salience": 0.00047606317,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.5,
+            "score": 0.5
+          },
+          "text": {
+            "beginOffset": 7644,
+            "content": "government response"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "government response",
+      "salience": 0.00047606317,
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 7716,
+            "content": "researchers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "researchers",
+      "salience": 0.00047606317,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": 0.4
+          },
+          "text": {
+            "beginOffset": 7619,
+            "content": "absence"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "absence",
+      "salience": 0.00047606317,
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7744,
+            "content": "scientists"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "scientists",
+      "salience": 0.00047606317,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8149,
+            "content": "Mobile Ordering"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Mobile Ordering",
+      "salience": 0.00047574632,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6333,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.00047571154,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6371,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.00047571154,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6081,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.00047571154,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 6341,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.00047571154,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6617,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.00047530758,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6609,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.00047530758,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 6647,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.00047530758,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 7054,
+            "content": "Title"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Title",
+      "salience": 0.00047424165,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 7025,
+            "content": "comments"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comments",
+      "salience": 0.00047424165,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7018,
+            "content": "link"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "link",
+      "salience": 0.00047424165,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 4562,
+            "content": "Kurisutina"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Kurisutina",
+      "salience": 0.00046618818,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 3213,
+            "content": "OptionPlex"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "OptionPlex",
+      "salience": 0.0004610235,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 1949,
+            "content": "people"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "people",
+      "salience": 0.0004560041,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8818,
+            "content": "creature"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "creature",
+      "salience": 0.00044608535,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3759,
+            "content": "Reopens Churches"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Reopens Churches",
+      "salience": 0.00044134693,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5058,
+            "content": "@ Clamms Seafoodhttps://www.reddit.com/r/OzBargainNew/comments/gb8t0b/vic_free_boxes_of_seafood_to_hospitality_workers/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "@ Clamms Seafoodhttps://www.reddit.com/r/OzBargainNew/comments/gb8t0b/vic_free_boxes_of_seafood_to_hospitality_workers/ Timestamp",
+      "salience": 0.00042722843,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3777,
+            "content": "Hair Salons"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Hair Salons",
+      "salience": 0.0004099131,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3708,
+            "content": "Northern California County"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Northern California County",
+      "salience": 0.0004099131,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 4013,
+            "content": "Republican"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/07wbk",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      },
+      "name": "Republican",
+      "salience": 0.0004099131,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 4620,
+            "content": "India"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/03rk0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/India"
+      },
+      "name": "India",
+      "salience": 0.00040943228,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 4071,
+            "content": "Mulk"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Mulk",
+      "salience": 0.00040943228,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 2743,
+            "content": "IV"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "IV",
+      "salience": 0.00040745124,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3322,
+            "content": "MeToo"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "MeToo",
+      "salience": 0.0004048962,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3392,
+            "content": "Rose McGowan Denounces"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Rose McGowan Denounces",
+      "salience": 0.0004048962,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 3624,
+            "content": "JamesWnzrf"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "JamesWnzrf",
+      "salience": 0.0004048962,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 6998,
+            "content": "MaddenUltimateTeam"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "MaddenUltimateTeam",
+      "salience": 0.00039799427,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.4
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 4086,
+            "content": "Kapoors"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Kapoors",
+      "salience": 0.00039458234,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8480,
+            "content": "plant"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "plant",
+      "salience": 0.00037901956,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8857,
+            "content": "bloom"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "bloom",
+      "salience": 0.0003787802,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 8716,
+            "content": "event"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "event",
+      "salience": 0.0003787802,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8971,
+            "content": "bloom"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "bloom",
+      "salience": 0.00037833588,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 4967,
+            "content": "VIC"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "VIC",
+      "salience": 0.00037521438,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 5049,
+            "content": "Covid"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Covid",
+      "salience": 0.00037521438,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 5813,
+            "content": "We need Legal Eagle"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "We need Legal Eagle",
+      "salience": 0.00037450276,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6033,
+            "content": "GusAndEddy"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "GusAndEddy",
+      "salience": 0.00037450276,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 6954,
+            "content": "suggestions"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "suggestions",
+      "salience": 0.00035449967,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8783,
+            "content": "plant"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "plant",
+      "salience": 0.00034324237,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 8668,
+            "content": "question"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "question",
+      "salience": 0.00033266324,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8488,
+            "content": "GARDEN"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "GARDEN",
+      "salience": 0.00033266324,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8696,
+            "content": "something"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "something",
+      "salience": 0.00033266324,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9703,
+            "content": "mildlyinfuriating"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "mildlyinfuriating",
+      "salience": 0.00033191714,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 6984,
+            "content": "u"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "u",
+      "salience": 0.00032516586,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 7599,
+            "content": "@techreview"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "@techreview",
+      "salience": 0.00032024446,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.8,
+            "score": -0.8
+          },
+          "text": {
+            "beginOffset": 6403,
+            "content": "Gokuhttps://www.reddit.com/r/Ningen/comments/gb8t03/coffin_meme_tries_to_kill_goku/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Gokuhttps://www.reddit.com/r/Ningen/comments/gb8t03/coffin_meme_tries_to_kill_goku/ Timestamp",
+      "salience": 0.0002942226,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 6732,
+            "content": "https://www.reddit.com/r/MaddenUltimateTeam/comments/gb8t00/what_abilities_do_have_on_your_defense_and_what/ Timestamp"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "https://www.reddit.com/r/MaddenUltimateTeam/comments/gb8t00/what_abilities_do_have_on_your_defense_and_what/ Timestamp",
+      "salience": 0.00029397273,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6701,
+            "content": "positions"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "positions",
+      "salience": 0.00028643702,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7308,
+            "content": "estava hackeando"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "estava hackeando",
+      "salience": 0.00028125287,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 7287,
+            "content": "eu acreditava"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "eu acreditava",
+      "salience": 0.00028125287,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": -0.3
+          },
+          "text": {
+            "beginOffset": 7779,
+            "content": "US"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/09c7w0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/United_States"
+      },
+      "name": "US",
+      "salience": 0.00028125287,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8080,
+            "content": "Small Cheeseburger Meal"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Small Cheeseburger Meal",
+      "salience": 0.00028106564,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8132,
+            "content": "@ Mcdonald's"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "@ Mcdonald's",
+      "salience": 0.00028106564,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6116,
+            "content": "art"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "art",
+      "salience": 0.00020924902,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6089,
+            "content": "lil"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "lil",
+      "salience": 0.00020924902,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.8,
+            "score": -0.8
+          },
+          "text": {
+            "beginOffset": 6384,
+            "content": "meme"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "meme",
+      "salience": 0.00020924902,
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 6094,
+            "content": "doodle"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "doodle",
+      "salience": 0.00020924902,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6324,
+            "content": "furry"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "furry",
+      "salience": 0.00020924902,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6929,
+            "content": "pass rushers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "pass rushers",
+      "salience": 0.0002090713,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 6684,
+            "content": "defense"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "defense",
+      "salience": 0.0002090713,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 7228,
+            "content": "army"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "army",
+      "salience": 0.00020860235,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6658,
+            "content": "abilities"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "abilities",
+      "salience": 0.00020651211,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 8728,
+            "content": "rn"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "rn",
+      "salience": 0.0001965255,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 8664,
+            "content": "nMy"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nMy",
+      "salience": 0.0001965255,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          },
+          "text": {
+            "beginOffset": 8738,
+            "content": "Spring Break"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Spring Break",
+      "salience": 0.0001965255,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9404,
+            "content": "Pok\\u00e9mon GO"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Pok\\u00e9mon GO",
+      "salience": 0.00019618751,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9309,
+            "content": "NocturneKinetics"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "NocturneKinetics",
+      "salience": 0.00019618751,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 9108,
+            "content": "Grendel Hunter"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11f0yst596"
+      },
+      "name": "Grendel Hunter",
+      "salience": 0.00018447037,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.6,
+            "score": -0.6
+          },
+          "text": {
+            "beginOffset": 6377,
+            "content": "Coffin"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/019tzr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Coffin"
+      },
+      "name": "Coffin",
+      "salience": 0.00012361235,
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          },
+          "text": {
+            "beginOffset": 6111,
+            "content": "OCs"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "OCs",
+      "salience": 0.00012361235,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 6576,
+            "content": "KakashiRealUchiha"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "KakashiRealUchiha",
+      "salience": 0.00012350736,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": 0.2
+          },
+          "text": {
+            "beginOffset": 6599,
+            "content": "Ningen"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Ningen",
+      "salience": 0.00012350736,
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          },
+          "text": {
+            "beginOffset": 6908,
+            "content": "nDo"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "nDo",
+      "salience": 0.00012350736,
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.0,
+            "score": 0.0
+          },
+          "text": {
+            "beginOffset": 6944,
+            "content": "CBS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/09d5h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/CBS"
+      },
+      "name": "CBS",
+      "salience": 0.00012340922,
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "sentiment": {
+            "magnitude": 0.3,
+            "score": 0.3
+          },
+          "text": {
+            "beginOffset": 7210,
+            "content": "Dagnabbitwhodat"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Dagnabbitwhodat",
+      "salience": 0.00012323032,
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "type": "OTHER"
+    }
+  ],
+  "language": "en"
+}
